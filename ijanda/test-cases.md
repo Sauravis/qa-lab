@@ -15,16 +15,22 @@
 
 ## TC-002 - Search for a place
 
-**Preconditions:**
-- App is opened
+**Priority:** High  
+**Type:** Functional  
+**Preconditions:** App is opened
 
 **Steps:**
 1. Go to search bar
-2. Type a place name
-3. Press search
+2. Enter a valid place name
+3. Click search button
 
 **Expected result:**
-- Results related to the search term are displayed
+- Relevant results are displayed matching the search term
+
+**Actual result:**
+- (To be filled after execution)
+
+**Status:** Not executed
 
 ## TC-003 - View place details
 
