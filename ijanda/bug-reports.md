@@ -18,19 +18,25 @@
 **Notes:**
 - This affects user experience but not functionality
 
-## BUG-002 - No loading indicator on search
+## BUG-002 - Missing feedback after adding to favorites
 
-**Severity:** Medium
+**Severity:** Medium  
+**Priority:** High  
+**Type:** UI / Usability  
 
 **Steps to reproduce:**
-1. Open app
-2. Perform a search
+1. Open iJanda app
+2. Select a place
+3. Click "Add to favorites"
 
 **Actual result:**
-- No loading indicator appears while results are loading
+- No confirmation message or visual feedback is shown
 
 **Expected result:**
-- A loading spinner should be shown
+- User should receive a confirmation message (e.g., "Added to favorites") or visual indicator
+
+**Impact:**
+- Users may not be sure if the action was successful
 
 ## BUG-003 - Inconsistent UI spacing
 
