@@ -26,7 +26,7 @@
 **Expected result:**
 - Results related to the search term are displayed
 
-- ## TC-003 - View place details
+## TC-003 - View place details
 
 **Preconditions:**
 - At least one place is visible in the list
@@ -38,7 +38,7 @@
 **Expected result:**
 - Detailed information about the place is shown (description, location, etc.)
 
-- ## TC-004 - Map loading
+## TC-004 - Map loading
 
 **Preconditions:**
 - Internet connection available
